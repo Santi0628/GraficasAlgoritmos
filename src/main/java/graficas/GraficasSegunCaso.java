@@ -1,4 +1,4 @@
-package graficasIndividuales;
+package graficas;
 
 import herramientas.LeerResultados;
 import org.jfree.chart.ChartFactory;

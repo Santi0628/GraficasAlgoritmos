@@ -1,4 +1,4 @@
-package graficasIndividuales;
+package graficas;
 
 
 import java.util.Map;
