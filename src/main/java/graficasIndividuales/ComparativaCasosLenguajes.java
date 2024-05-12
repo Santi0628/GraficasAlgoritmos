@@ -22,7 +22,7 @@ import java.util.*;
  * - Sebastian Carmona Tapasco
  * - Nodier Alberto Alzate Solano
  */
-public class ComparativaMayorCasoLenguajes {
+public class ComparativaCasosLenguajes {
 
     public static void main(String[] args) {
 
